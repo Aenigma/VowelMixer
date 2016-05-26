@@ -1,4 +1,4 @@
-# MixedVowelSpeech
+# VowelMixer
 Remaps the vowels in a text to make sentences composed of funny sounding words
 
 Take a word, such as `jump` and transform it into something like `jimp` in a way that's consistent between inflections of the word and occurences of the word. That is, it should have the same vowel maps between inflections and use the same vowel maps each time the word is seen.
